@@ -24,6 +24,7 @@
 1. FastAPI: Access the API documentation and endpoints at http://127.0.0.1:8000/docs. Here you can explore the available API methods and their details.
 
 ![](images/api_list.jpeg)
+
 2. Jupyter Notebook: Open http://127.0.0.1:8888 in your browser. Retrieve the security token from the Docker console during container startup.
 3. Data Visualization: View the final visualizations generated from your data requests in the Jupyter Notebook.![](images/visualization.jpeg)
 
