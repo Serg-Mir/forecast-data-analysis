@@ -28,6 +28,7 @@
 2. Jupyter Notebook: Open http://127.0.0.1:8888 in your browser. Retrieve the security token from the Docker console during container startup.
 3. Data Visualization: View the final visualizations generated from your data requests in the Jupyter Notebook.![](images/visualization.jpeg)
 
+p.s. more screen could be found in the [images directory](images)
 ## Testing
 1. You might need to add the generated project root directory to the
 [`PYTHONPATH`](https://docs.python.org/3/using/cmdline.html#envvar-PYTHONPATH) in some cases: `export PYTHONPATH="{$PYTHONPATH}:/absolute/path/to/project"`
